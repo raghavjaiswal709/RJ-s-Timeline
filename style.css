@@ -499,6 +499,7 @@ padding-bottom:30px;
             .container{
                 
                 display: flex;
+                mar
                 justify-content: center;
             }
             
@@ -530,7 +531,7 @@ padding-bottom:30px;
 
             .card-right2{
                 scale: 1;
-                margin-top: -200px;
+                
                 margin-top: ;
                 position: relative;
                 background:linear-gradient(135deg, rgba(225, 225, 225,0.1), rgba(225,225,225,0.1));
